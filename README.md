@@ -3,7 +3,7 @@
 This program uses a linear regression model to predict the future behavior of Apple Inc. (AAPL) stock price using data from Yahoo Finance.
 Requirements
 
--    Python 3.x
+-    Python 3
 -    Numpy
 -    Pandas
 -    Matplotlib
